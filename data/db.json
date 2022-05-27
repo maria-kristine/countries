@@ -1,0 +1,95 @@
+{
+    "countries": [
+    {
+        "country": "Germany",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/de.webp",
+        "capital": "Berlin",
+        "subregion": "Western Europe",
+        "id": 1
+    },
+    {
+        "country": "United Kingdom",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/gb.webp",
+        "capital": "London",
+        "subregion": "Northern Europe",
+        "id": 2
+    },
+    {
+        "country": "France",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/fr.webp",
+        "capital": "Paris",
+        "subregion": "Western Europe",
+        "id": 3
+    },
+    {
+        "country": "Italy",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/it.webp",
+        "capital": "Rome",
+        "subregion": "Southern Europe",
+        "id": 4
+    },
+    {
+        "country": "Spain",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/es.webp",
+        "capital": "Madrid",
+        "subregion": "Southern Europe",
+        "id": 5
+    },
+    {
+        "country": "Ukraine",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/ua.webp",
+        "capital": "Kijev",
+        "subregion": "Eastern Europe",
+        "id": 6
+    },
+    {
+        "country": "Polen",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/pl.webp",
+        "capital": "Warszawa",
+        "subregion": "Eastern Europe",
+        "id": 7
+    },
+    {
+        "country": "Romania",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/ro.webp",
+        "capital": "bukarest",
+        "subregion": "Eastern Europe",
+        "id": 8
+    },
+    {
+        "country": "Netherlands",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/nl.webp",
+        "capital": "Amsterdam",
+        "subregion": "Western Europe",
+        "id": 9
+    },
+    {
+        "country": "Belgium",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/be.webp",
+        "capital": "Bruxelles",
+        "subregion": "Western Europe",
+        "id": 10
+    },
+    {
+        "country": "Czech Republic",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/cz.webp",
+        "capital": "Prague",
+        "subregion": "Eastern Europe",
+        "id": 11
+    },
+    {
+        "country": "Greece",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/gr.webp",
+        "capital": "Athen",
+        "subregion": "Southern Europe",
+        "id": 12
+    },
+    {
+        "country": "Portugal",
+        "flag": "https://www.verdensflag.dk/data/flags/w1160/pt.webp",
+        "capital": "Lissabon",
+        "subregion": "Southern Europe",
+        "id": 13
+    }
+    ]
+}
